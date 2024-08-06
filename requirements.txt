@@ -1,0 +1,26 @@
+tqdm
+python-dotenv
+openai
+pandas
+pyarrow
+fastparquet
+numpy
+matplotlib
+scikit-learn
+jupyter
+seaborn
+# polars
+# pendulum
+toml
+plotly
+### development
+black
+--find-links https://download.pytorch.org/whl/cu121
+torch
+transformers
+datasets
+sentence-transformers
+bokeh
+chromadb
+renumics-spotlight
+streamlit
